@@ -1,56 +1,31 @@
-# Your Name 👨‍💻
+# 👋 Hello, I am Shruti
 
-## CDAC DBDA Course 📊
+## 🚀 Data Engineer
 
-This repository contains all the resources and projects related to the CDAC DBDA course.
+Data Engineer with a focus on Big Data Analytics, currently pursuing a PG Diploma from CDAC Pune. Proficient in data modeling, analysis, and visualization using Python, SQL, and other programming languages. Building efficient data systems and pipelines for data quality and reliability, with a strong foundation in Data Pipeline and ML principles.
 
-### About Me ℹ️
+### About Me 🌐
 
-- Your name
-- Your role (e.g., Data Science Student)
-- Your interests
-
-### Skills 💡
-
-- List your technical skills and expertise here
+- Data Engineer with a passion for building efficient data systems and pipelines. Experienced in data modeling, analysis, and visualization using Python, SQL, and other programming languages.
 
 ### Tech Stack 🛠️
 
-- Mention the programming languages, frameworks, and tools you use in the CDAC DBDA course
-
-### Projects 🚀
-
-- Highlight some of your most significant projects with brief descriptions and links
+- Programming Language: Java, Python, R, SQL, C++
+- Frameworks & Libraries: PySpark, Tensorflow
+- Tools: Tableau, Mysql, PostgreSQL, Cassandra, MongoDB, Apache Spark, Apache Kafka, AWS, Git
+- Specialties: Data pipelines, ML
 
 ### Contact 📧
 
-- Provide ways for visitors to reach out to you
+- Email: bharatshruti02@gmail.com
 
 ### Education 🎓
 
-- List your educational background, including degrees and institutions
-
-### Certifications 🏅
-
-- List any relevant certifications you have earned
-
-### Courses 📚
-
-- List any relevant courses you have taken
-
-### Specialties ⭐
-
-- List your areas of expertise and specialties
+- PG Diploma in Big Data Analytics, CDAC Pune.
+- Bachelor's in Electronics and Telecommunication Engineering, Cummins College of Engineering For Women Pune.
 
 ### Social Media 🌐
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shrutibhrarat0105/)
+- Twitter: [@YourTwitterHandle](https://twitter.com/ShrutiBharat01)
 
-### Follow Me 🔍
-
-- If you want others to follow you, include a call to action here
-
-### License 📝
-
-- Include a license for your repository, such as the MIT License
