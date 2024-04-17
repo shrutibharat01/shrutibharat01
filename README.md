@@ -15,14 +15,20 @@ Data Engineer with a focus on Big Data Analytics, currently pursuing a PG Diplom
 - Tools: Tableau, Mysql, PostgreSQL, Cassandra, MongoDB, Apache Spark, Apache Kafka, AWS, Git
 - Specialties: Data pipelines, ML
 
-### Contact 📧
+### Certificates
+- SQL: [Hackerrank (Basic)](https://www.hackerrank.com/certificates/4a073b0c1d80)
 
-- Email: bharatshruti02@gmail.com
+### Achievements
+- SQL: [Hackerrank Gold Badge](https://www.hackerrank.com/bharatshruti02?badge=sql&stars=5&level=3&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share_profile&social=linkedin )
 
 ### Education 🎓
 
 - PG Diploma in Big Data Analytics, CDAC Pune.
 - Bachelor's in Electronics and Telecommunication Engineering, Cummins College of Engineering For Women Pune.
+
+### Contact 📧
+
+- Email: bharatshruti02@gmail.com
 
 ### Social Media 🌐
 
