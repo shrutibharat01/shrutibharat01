@@ -1,16 +1,27 @@
-### Hi there 👋
+# Your Name
 
-<!--
-**shrutibharat01/shrutibharat01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## CDAC DBDA Course
 
-Here are some ideas to get you started:
+This repository contains all the resources and projects related to the CDAC DBDA course.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- Your name
+- Your role (e.g., Data Science Student)
+- Your interests
+
+### Skills
+
+- List your technical skills and expertise here
+
+### Tech Stack
+
+- Mention the programming languages, frameworks, and tools you use in the CDAC DBDA course
+
+### Projects
+
+- Highlight some of your most significant projects with brief descriptions and links
+
+### Contact
+
+- Provide ways for visitors to reach out to you
