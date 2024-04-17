@@ -26,6 +26,6 @@ Data Engineer with a focus on Big Data Analytics, currently pursuing a PG Diplom
 
 ### Social Media 🌐
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shrutibhrarat0105/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/ShrutiBharat01)
+- LinkedIn: [Shruti_Bharat](https://www.linkedin.com/in/shrutibhrarat0105/)
+- Twitter: [Shruti_Bharat](https://twitter.com/ShrutiBharat01)
 
