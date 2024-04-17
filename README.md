@@ -19,7 +19,7 @@ Data Engineer with a focus on Big Data Analytics, currently pursuing a PG Diplom
 - SQL: [Hackerrank (Basic)](https://www.hackerrank.com/certificates/4a073b0c1d80)
 
 ### Achievements
-- SQL: [Hackerrank Gold Badge](https://www.hackerrank.com/bharatshruti02?badge=sql&stars=5&level=3&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share_profile&social=linkedin )
+- [Hackerrank Portfolio](https://www.hackerrank.com/bharatshruti02?badge=sql&stars=5&level=3&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share_profile&social=linkedin )
 
 ### Education 🎓
 
