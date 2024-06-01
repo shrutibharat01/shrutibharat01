@@ -1,12 +1,12 @@
 # 👋 Hello, I am Shruti
 
-## 🚀 Data Engineer
+## 🚀 Data Science Ethusiast
 
-Data Engineer with a focus on Big Data Analytics, currently pursuing a PG Diploma from CDAC Pune. Proficient in data modeling, analysis, and visualization using Python, SQL, and other programming languages. Building efficient data systems and pipelines for data quality and reliability, with a strong foundation in Data Pipeline and ML principles.
+Data Science with a focus on Big Data Analytics, currently pursuing a PG Diploma from CDAC Pune. Proficient in data modeling, analysis, and visualization using Python, SQL, and other programming languages. Building efficient data systems and pipelines for data quality and reliability, with a strong foundation in Data Pipeline and ML principles.
 
 ### About Me 🌐
 
-- Data Engineer with a passion for building efficient data systems and pipelines. Experienced in data modeling, analysis, and visualization using Python, SQL, and other programming languages.
+- Data Science Enthusiast with a passion for building efficient data systems and pipelines. Experienced in data modeling, analysis, and visualization using Python, SQL, and other programming languages.
 
 ### Tech Stack 🛠️
 
