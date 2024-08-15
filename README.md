@@ -89,23 +89,12 @@ I'm passionate about data science with a focus on Big Data Analytics, currently 
 - **Tech Stack:** Amazon S3, QuickSight, AWS Glue, AWS Lambda, AWS Athena
 - **[GitHub Repository](https://github.com/shrutibharat01/Data-Engineering-YouTube-Analysis)**
 
-#### Laptop Price Prediction Using Random Forest Regression
-*Jun 2024 - Jul 2024*
-- Built an ML model to predict laptop prices using random forest regression.
-- **Tech Stack:** Python (Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn), Streamlit, Jupyter
-- **[GitHub Repository](https://github.com/shrutibharat01/Laptop-Price-Predictor-ML-Project)**
-
 #### Indian Startup Funding Analysis Web Application
 *Jun 2024 - Jun 2024*
 - Developed a Streamlit web app for analyzing Indian Startup Funding trends.
 - **Tech Stack:** Python (Pandas, Plotly, Matplotlib), Streamlit
 - **[Deployed Project Link](https://yourapp.herokuapp.com/)**
 
-#### IPL Data Analysis Dashboard Using Tableau
-*Jun 2023 - Jul 2023*
-- Created a Tableau dashboard analyzing IPL data from 2008 to 2020.
-- **Tech Stack:** Python, Excel, Tableau
-- **[GitHub Repository](https://github.com/shrutibharat01/Tableau-Dashboard)**
 
 ### 📌 Positions of Responsibility
 
