@@ -81,19 +81,19 @@ I'm passionate about data science with a focus on Big Data Analytics, currently 
 *Jul 2024 - Aug 2024*
 - Created a customer segmentation model for an online retail company using RFM analysis.
 - **Tech Stack:** PySpark, Amazon EMR, AWS S3, Databricks, Tableau, Python (Numpy, Pandas, Matplotlib), ML (K-means)
-- **[GitHub Repository](https://github.com/shrutibharat01/Customer-Segmentation-Using-RFM-Analysis)**
+- **[GitHub Repository](https://github.com/shrutibharat01/Customer_segmentation_using_RFM_analysis)**
 
 #### Data Engineering YouTube Analysis
 *May 2024 - Jun 2024*
 - Developed a scalable ETL pipeline on AWS for managing and analyzing YouTube video data.
 - **Tech Stack:** Amazon S3, QuickSight, AWS Glue, AWS Lambda, AWS Athena
-- **[GitHub Repository](https://github.com/shrutibharat01/Data-Engineering-YouTube-Analysis)**
+- **[GitHub Repository](https://github.com/shrutibharat01/Data_Engineering_YouTube_Analysis)**
 
 #### Indian Startup Funding Analysis Web Application
 *Jun 2024 - Jun 2024*
 - Developed a Streamlit web app for analyzing Indian Startup Funding trends.
 - **Tech Stack:** Python (Pandas, Plotly, Matplotlib), Streamlit
-- **[Deployed Project Link](https://yourapp.herokuapp.com/)**
+- **[Deployed Project Link](https://indian-startup-funding-analysis-using-pandas.streamlit.app/)**
 
 
 ### 📌 Positions of Responsibility
