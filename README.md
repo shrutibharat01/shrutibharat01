@@ -1,136 +1,57 @@
-# 👋 Hello, I'm Shruti Bharat
+# Hi there, I'm Shruti Bharat! 👋
 
-## 🚀 Data Science Enthusiast | Big Data Analytics Specialist
+### 🚀 Data Engineer | ETL & Cloud Architecture Specialist
+**Building scalable data pipelines with Databricks, AWS, and Airflow.**
 
-I'm passionate about data science with a focus on Big Data Analytics, currently pursuing a PG Diploma from CDAC Pune. My expertise lies in data modeling, analysis, and visualization using various tools and programming languages. I love building efficient data systems and pipelines to ensure data quality and reliability.
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=shrutibharat01&color=blue)
+### 👨‍💻 About Me
+I am a **Data Engineer** at **Tata Technologies**, specializing in migrating legacy systems to modern cloud architectures. My work focuses on building fault-tolerant ETL pipelines, optimizing big data processing, and automating workflows for enterprise-scale data.
 
-### 🔍 About Me
+- 🔭 **Currently working on:** Enterprise-grade ETL migration using **Databricks Lakehouse** and **Delta Lake**.
+- 🌱 **Learning:** Advanced **Apache Airflow** provider patterns and **C++** for high-performance computing.
+- 🎯 **2026 Goal:** Contributing to Open Source data infrastructure projects (GSoC 2026).
+- 💬 **Ask me about:** Pipeline Orchestration, AWS S3 Optimization, and PySpark tuning.
 
-- **Data Science Enthusiast:** Skilled in data modeling, analysis, and visualization.
-- **Big Data Analytics:** Currently pursuing a PG Diploma from CDAC Pune.
-- **Tech Stack:** Python, SQL, Java, R, C++, PySpark, TensorFlow, Tableau, MySQL, PostgreSQL, MongoDB, Cassandra, Apache Spark, Apache Kafka, AWS, Git.
-- **Specialties:** Data pipelines, Machine Learning, Cloud Computing, Python Applications
+---
 
-### 🛠️ Technical Skills
+### 🛠️ Tech Stack
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
+| **Big Data** | ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) |
+| **Orchestration** | ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 
-#### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+---
 
-#### Frameworks & Libraries
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+### 🏆 Featured Projects
 
-#### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
+#### 🚗 [Smart Enterprise Data Modernization](https://github.com/shrutibharat01/enterprise-etl-pipeline)
+*An end-to-end Lakehouse architecture for automotive enterprise data.*
+- **Architecture:** `AWS S3` → `Databricks (PySpark)` → `Delta Lake` → `Streamlit`.
+- **Key Tech:** Implemented Medallion Architecture (Bronze/Silver/Gold) and MLflow for model tracking.
+- **Impact:** Unified CRM and SAP data into a real-time dashboard for vehicle parts forecasting.
 
-#### Technologies & Tools
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+#### 📊 [Customer Segmentation Engine](https://github.com/shrutibharat01/Customer-Segmentation-Using-RFM-Analysis)
+*Scalable analytics pipeline for retail user behavior.*
+- **Key Tech:** PySpark, K-Means Clustering, RFM Analysis.
+- **Outcome:** Segmented customers by purchasing behavior to optimize marketing campaigns.
 
-### 🏆 Achievements
+---
 
-- **JET Abacus:** 1st position in state and national abacus competitions.
-- **Kho Kho Team Vice Captain:** Secured 3rd prize in the Damini Tournament.
-- **Certificates:** [SQL (Hackerrank - Basic)](https://www.hackerrank.com/certificates/4a073b0c1d80)
+### 📈 GitHub Stats
+<p align="left">
+<a href="https://github.com/shrutibharat01">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrutibharat01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutibharat01&layout=compact&theme=tokyonight"/>
+</a>
+</p>
 
-### 🎓 Education
+---
 
-- **PG Diploma in Big Data Analytics**, CDAC Pune, 77.5%, 2024
-- **B.Tech in Electronics & Telecommunication Engineering**, Cummins College of Engineering for Women, Pune, 7.56 CGPA, 2023
-- **Senior Secondary (12th)**, Maharashtra State Board, 84%, 2019
-- **Secondary (10th)**, Maharashtra State Board, 98.4%, 2017
-
-### 💼 Professional Experience
-
-#### CareerBlaze, Pune | Data Analyst (Sep 2021 - Sep 2022)
-- Developed an ML model to enhance HR screening processes, shortlisting candidates based on 18 parameters.
-- **Tech Stack:** Python, Pandas, Numpy, ML
-
-#### Givetastic, Germany | Full Stack Developer (Jun 2022 - Aug 2022)
-- Developed a full-stack Expense Tracker Flask Application.
-- **Tech Stack:** HTML, CSS, Bootstrap, Flask, SQLAlchemy, MySQL, PHPMyAdmin, XAMPP
-
-#### Space Generation Advisory Council, Germany | Research Intern (Mar 2021 - Jun 2021)
-- Enhanced research papers on space and cybersecurity through data research and statistical data analysis.
-- **Tech Stack:** Python, Pandas, Numpy
-
-### 📂 Projects
-
-#### Customer Segmentation Using RFM Analysis
-*Jul 2024 - Aug 2024*
-- Created a customer segmentation model for an online retail company using RFM analysis.
-- **Tech Stack:** PySpark, Amazon EMR, AWS S3, Databricks, Tableau, Python (Numpy, Pandas, Matplotlib), ML (K-means)
-- **[GitHub Repository](https://github.com/shrutibharat01/Customer_segmentation_using_RFM_analysis)**
-
-#### Data Engineering YouTube Analysis
-*May 2024 - Jun 2024*
-- Developed a scalable ETL pipeline on AWS for managing and analyzing YouTube video data.
-- **Tech Stack:** Amazon S3, QuickSight, AWS Glue, AWS Lambda, AWS Athena
-- **[GitHub Repository](https://github.com/shrutibharat01/Data_Engineering_YouTube_Analysis)**
-
-#### Indian Startup Funding Analysis Web Application
-*Jun 2024 - Jun 2024*
-- Developed a Streamlit web app for analyzing Indian Startup Funding trends.
-- **Tech Stack:** Python (Pandas, Plotly, Matplotlib), Streamlit
-- **[Deployed Project Link](https://indian-startup-funding-analysis-using-pandas.streamlit.app/)**
-
-
-### 📌 Positions of Responsibility
-
-- **Placement Cell Representative**, ENTC Department, Cummins College (Aug 2022 - May 2023)
-- **Social Media Head**, TechBuzz Club, Cummins College (Mar 2021 - Dec 2021)
-
-### 🌟 Extra-Curricular Activities
-
-- **JET Abacus:** Secured 1st position in state and national abacus competitions.
-- **College Kho Kho Team (Vice Captain):** Secured 3rd prize in the Damini Tournament.
-
-### 💡 Qualities
-
-- Public Speaker, Punctual, Agile, Leadership, Quick learner, Problem-solving.
-
-### 🏃‍♀️ Hobbies & Languages
-
-- **Hobbies:** Reading Books, Yoga
-- **Languages:** English, Hindi, Marathi, German (A2 Level)
-
-### 📧 Contact
-
-- **Email:** bharatshruti02@gmail.com
-
-### 🌐 Social Media
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrutibharat0105/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ShrutiBharat01)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername)
-
-### 📊 GitHub Stats
-
-![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutibharat01&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutibharat01&layout=compact&theme=radical)
-
-### 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=shrutibharat01&theme=radical)
+### 📫 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/shrutibharat0105/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shrutibharat0105" /></a>
+<a href="mailto:bharatshruti02@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="bharatshruti02" /></a>
+</p>
