@@ -3,6 +3,8 @@
 ### 🚀 Data Engineer | ETL & Cloud Architecture Specialist
 **Building scalable data pipelines with Databricks, AWS, and Airflow.**
 
+![Profile Views](https://komarev.com/ghpvc/?username=shrutibharat01&color=blue)
+
 ---
 
 ### 👨‍💻 About Me
