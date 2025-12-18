@@ -45,8 +45,8 @@ I am a **Data Engineer** at **Tata Technologies**, specializing in migrating leg
 ### 📈 GitHub Stats
 <p align="left">
 <a href="https://github.com/shrutibharat01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrutibharat01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutibharat01&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrutibharat01&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutibharat01&layout=compact&theme=tokyonight&hide_border=true"/>
 </a>
 </p>
 
